@@ -1,0 +1,279 @@
+                    Total Players Across All Countries: 2,548,673
+----------------------------------------------------
+Country Summary of Player Counts (Sorted by Most Players):
+----------------------------------------------------
+Turkey                                 Total Players -    783,159
+Brazil                                 Total Players -    187,622
+Finland                                Total Players -    151,506
+Argentina                              Total Players -    122,882
+United States                          Total Players -    109,793
+Poland                                 Total Players -     95,256
+Russian Federation                     Total Players -     77,963
+Bulgaria                               Total Players -     66,977
+United Kingdom                         Total Players -     61,212
+Lithuania                              Total Players -     56,895
+Portugal                               Total Players -     54,944
+Germany                                Total Players -     48,509
+Saudi Arabia                           Total Players -     45,842
+Spain                                  Total Players -     43,161
+Hungary                                Total Players -     34,194
+France                                 Total Players -     30,098
+Romania                                Total Players -     29,179
+Czech Republic                         Total Players -     26,933
+Estonia                                Total Players -     23,457
+Sweden                                 Total Players -     22,629
+Australia                              Total Players -     22,512
+Latvia                                 Total Players -     21,928
+China                                  Total Players -     19,757
+Netherlands                            Total Players -     19,645
+Canada                                 Total Players -     18,851
+Italy                                  Total Players -     18,403
+Ukraine                                Total Players -     17,749
+Norway                                 Total Players -     16,283
+South Africa                           Total Players -     14,603
+Chile                                  Total Players -     13,826
+Georgia                                Total Players -     13,688
+United Arab Emirates                   Total Players -     12,514
+Slovakia                               Total Players -     12,126
+India                                  Total Players -     11,602
+Croatia                                Total Players -     10,530
+Serbia                                 Total Players -     10,396
+Uruguay                                Total Players -      9,524
+Indonesia                              Total Players -      9,465
+Greece                                 Total Players -      9,383
+Mexico                                 Total Players -      8,509
+Denmark                                Total Players -      8,400
+Belgium                                Total Players -      7,876
+Korea, Republic of                     Total Players -      7,149
+Colombia                               Total Players -      7,085
+Bosnia and Herzegovina                 Total Players -      5,937
+Venezuela                              Total Players -      5,501
+Qatar                                  Total Players -      5,221
+Philippines                            Total Players -      4,775
+Israel                                 Total Players -      4,598
+Slovenia                               Total Players -      4,489
+New Zealand                            Total Players -      4,470
+Thailand                               Total Players -      4,321
+Egypt                                  Total Players -      4,307
+Hong Kong                              Total Players -      4,300
+Austria                                Total Players -      4,061
+Belarus                                Total Players -      4,017
+Malaysia                               Total Players -      3,869
+Kuwait                                 Total Players -      3,828
+Japan                                  Total Players -      3,826
+Dominican Republic                     Total Players -      3,561
+Azerbaijan                             Total Players -      3,508
+Algeria                                Total Players -      3,468
+Iran, Islamic Republic of              Total Players -      3,324
+Moldova, Republic of                   Total Players -      3,209
+Pakistan                               Total Players -      3,182
+Switzerland                            Total Players -      3,045
+Ireland                                Total Players -      3,037
+Taiwan                                 Total Players -      2,841
+Morocco                                Total Players -      2,824
+Jordan                                 Total Players -      2,295
+Other                                  Total Players -      2,102
+Macedonia                              Total Players -      2,056
+Oman                                   Total Players -      1,986
+Tunisia                                Total Players -      1,919
+Singapore                              Total Players -      1,790
+Peru                                   Total Players -      1,675
+Afghanistan                            Total Players -      1,584
+England                                Total Players -      1,583
+Albania                                Total Players -      1,476
+Costa Rica                             Total Players -      1,344
+Bahrain                                Total Players -      1,334
+Jamaica                                Total Players -      1,270
+Ecuador                                Total Players -      1,252
+Vietnam                                Total Players -      1,168
+Bangladesh                             Total Players -      1,111
+Turks and Caicos Islands               Total Players -      1,063
+Turkmenistan                           Total Players -        991
+Trinidad and Tobago                    Total Players -        979
+Kazakhstan                             Total Players -        823
+Cyprus                                 Total Players -        810
+Barbados                               Total Players -        806
+Paraguay                               Total Players -        778
+Sri Lanka                              Total Players -        757
+Malta                                  Total Players -        726
+Montenegro                             Total Players -        673
+Mozambique                             Total Players -        667
+Netherlands Antilles                   Total Players -        635
+Lebanon                                Total Players -        634
+Iraq                                   Total Players -        631
+Panama                                 Total Players -        626
+Puerto Rico                            Total Players -        556
+Armenia                                Total Players -        550
+Mongolia                               Total Players -        535
+Reunion                                Total Players -        525
+El Salvador                            Total Players -        507
+Botswana                               Total Players -        485
+Luxembourg                             Total Players -        468
+American Samoa                         Total Players -        413
+Andorra                                Total Players -        410
+Guatemala                              Total Players -        408
+Scotland                               Total Players -        404
+Iceland                                Total Players -        383
+Bolivia                                Total Players -        365
+Honduras                               Total Players -        359
+Namibia                                Total Players -        322
+Nepal                                  Total Players -        318
+Kenya                                  Total Players -        316
+Angola                                 Total Players -        313
+Aruba                                  Total Players -        309
+Bahamas                                Total Players -        286
+Wales                                  Total Players -        283
+Mauritius                              Total Players -        279
+Saint Vincent and the Grenadines       Total Players -        271
+Libya                                  Total Players -        268
+Aland Islands                          Total Players -        244
+Kosovo                                 Total Players -        234
+Antigua and Barbuda                    Total Players -        231
+Macau                                  Total Players -        228
+Uzbekistan                             Total Players -        216
+Zimbabwe                               Total Players -        205
+Saint Lucia                            Total Players -        198
+Antarctica                             Total Players -        186
+Brunei Darussalam                      Total Players -        176
+Korea, Democratic People's Republic of Total Players -        176
+Nigeria                                Total Players -        172
+Nicaragua                              Total Players -        170
+Sudan                                  Total Players -        164
+Anguilla                               Total Players -        158
+Guadeloupe                             Total Players -        157
+Madagascar                             Total Players -        157
+Martinique                             Total Players -        139
+Cambodia                               Total Players -        138
+Syrian Arab Republic                   Total Players -        138
+Kyrgyzstan                             Total Players -        125
+Swaziland                              Total Players -        122
+Cuba                                   Total Players -        116
+Ghana                                  Total Players -        108
+Myanmar                                Total Players -        107
+Senegal                                Total Players -        104
+Northern Ireland                       Total Players -        102
+Suriname                               Total Players -        101
+Zambia                                 Total Players -        101
+Bhutan                                 Total Players -         94
+Belize                                 Total Players -         89
+Yemen                                  Total Players -         89
+Guyana                                 Total Players -         86
+Jersey                                 Total Players -         83
+Togo                                   Total Players -         82
+Ethiopia                               Total Players -         81
+Maldives                               Total Players -         81
+Uganda                                 Total Players -         80
+Grenada                                Total Players -         78
+Tanzania, United Republic of           Total Players -         76
+Faroe Islands                          Total Players -         73
+Niger                                  Total Players -         73
+Benin                                  Total Players -         71
+Dominica                               Total Players -         70
+Bermuda                                Total Players -         68
+Norfolk Island                         Total Players -         66
+Isle of Man                            Total Players -         65
+Cote D'Ivoire                          Total Players -         63
+Tajikistan                             Total Players -         63
+Tonga                                  Total Players -         58
+Virgin Islands, U.S.                   Total Players -         58
+Haiti                                  Total Players -         56
+Saint Helena                           Total Players -         56
+Guam                                   Total Players -         52
+Saint Kitts and Nevis                  Total Players -         52
+United States Minor Outlying Islands   Total Players -         52
+Cameroon                               Total Players -         50
+Cayman Islands                         Total Players -         50
+Fiji                                   Total Players -         50
+Timor-Leste                            Total Players -         49
+Monaco                                 Total Players -         48
+San Marino                             Total Players -         47
+Montserrat                             Total Players -         46
+Somalia                                Total Players -         45
+Cape Verde                             Total Players -         44
+Lesotho                                Total Players -         44
+Gibraltar                              Total Players -         43
+Rwanda                                 Total Players -         42
+Gabon                                  Total Players -         41
+Lao People's Democratic Republic       Total Players -         41
+Pitcairn                               Total Players -         41
+Congo, The Democratic Republic of the  Total Players -         40
+French Guiana                          Total Players -         40
+Seychelles                             Total Players -         39
+Tuvalu                                 Total Players -         39
+French Polynesia                       Total Players -         37
+Tokelau                                Total Players -         36
+Guernsey                               Total Players -         35
+Liechtenstein                          Total Players -         34
+Papua New Guinea                       Total Players -         34
+Sao Tome and Principe                  Total Players -         34
+Virgin Islands, British                Total Players -         34
+Christmas Island                       Total Players -         33
+British Indian Ocean Territory         Total Players -         32
+Palau                                  Total Players -         32
+New Caledonia                          Total Players -         31
+Falkland Islands (Malvinas)            Total Players -         28
+Greenland                              Total Players -         28
+Malawi                                 Total Players -         27
+Holy See (Vatican City State)          Total Players -         26
+Micronesia, Federated States of        Total Players -         25
+Congo                                  Total Players -         24
+Kiribati                               Total Players -         24
+Northern Mariana Islands               Total Players -         24
+Mali                                   Total Players -         23
+Burkina Faso                           Total Players -         22
+Samoa                                  Total Players -         20
+Central African Republic               Total Players -         19
+Chad                                   Total Players -         19
+Equatorial Guinea                      Total Players -         19
+Eritrea                                Total Players -         19
+Niue                                   Total Players -         19
+Bouvet Island                          Total Players -         18
+Mauritania                             Total Players -         17
+Solomon Islands                        Total Players -         17
+Djibouti                               Total Players -         16
+Sierra Leone                           Total Players -         16
+Cook Islands                           Total Players -         15
+Gambia                                 Total Players -         15
+Guinea                                 Total Players -         15
+Heard Island And McDonald Islands      Total Players -         15
+Saint Pierre and Miquelon              Total Players -         15
+Burundi                                Total Players -         14
+French Southern Territories            Total Players -         14
+Vanuatu                                Total Players -         14
+Liberia                                Total Players -         13
+Marshall Islands                       Total Players -         12
+Mayotte                                Total Players -         12
+Wallis and Futuna                      Total Players -         12
+Nauru                                  Total Players -         11
+Cocos (Keeling) Islands                Total Players -         10
+Guinea-Bissau                          Total Players -         10
+Western Sahara                         Total Players -          9
+Comoros                                Total Players -          7
+----------------------------------------------------
+
+Player Registrations Per Year:
+---------------------------
+Year 2003: 10,708
+Year 2004: 8,635
+Year 2005: 12,745
+Year 2006: 13,793
+Year 2007: 19,206
+Year 2008: 73,007
+Year 2009: 204,896
+Year 2010: 191,479
+Year 2011: 201,248
+Year 2012: 207,938
+Year 2013: 214,416
+Year 2014: 165,408
+Year 2015: 142,705
+Year 2016: 142,105
+Year 2017: 170,631
+Year 2018: 128,123
+Year 2019: 92,551
+Year 2020: 139,795
+Year 2021: 117,402
+Year 2022: 102,922
+Year 2023: 97,802
+Year 2024: 76,561
+Year 2025: 14,597
+---------------------------
